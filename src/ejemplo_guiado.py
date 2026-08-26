@@ -26,7 +26,7 @@ def procesar_archivo(ruta):
     palabras = contenido.lower().split()
     frecuencia = Counter(palabras)
     palabra_frecuente = frecuencia.most_common(1)[0][0] if palabras else "Sin palabras"
-    reporte = REPORTES / f"reporte_(ruta.stem}.txt"
+    reporte = REPORTES / f"reporte_(ruta.stem).txt"
     reporte.write_text(
         f"Archivo: {ruta.name}\n"
         f"Líneas: {len(contenido.splitlines())}\n"
@@ -41,3 +41,48 @@ def procesar_archivo(ruta):
         totales["caracteres"] += len(contenido)
     shutil. move(str(ruta), PROCESADOS / ruta.name)
     registrar(f"Procesado correctamente: {ruta.name}")
+
+def productor():
+    for ruta in ENTRADA.glob("*.txt"):
+        cola.put(ruta)
+        registrar(f"Archivo agregado a la cola: {ruta.name}")
+def trabajador (numero):
+    while True:
+        ruta = cola.get()
+        if ruta is None:
+            cola.task_done()
+            break
+        try:
+            procesar_archivo(ruta)
+            print(f"Trabajador {numero}: procesó {ruta.name}")
+        except Exception as error:
+            registrar(f"ERROR en {ruta.name}: {error}")
+        finally:
+            cola.task_done()
+
+def main():
+    for carpetas in [ENTRADA, PROCESADOS, REPORTES, LOG.parent]:
+        carpetas.mkdir(parents=True, exist_ok=True)
+    cantidad_trabajadores = 3
+    trabajadores = [Thread(target=trabajador, args=(i + 1 ,)) for i in range(cantidad_trabajadores)]
+    for hilo in trabajadores:
+        hilo.start()
+    hilo_productor = Thread(target=productor)
+    hilo_productor.start()
+    hilo_productor.join()
+    for _ in trabajadores:
+        cola.put(None)
+    cola.join()
+    for hilo in trabajadores:
+        hilo.join()
+    consolidado = REPORTES / "reporte_consolidado.txt"
+    consolidado.write_text(
+        f"Archivos procesados: {totales['archivos']}\n"
+        f"Palabras procesadas: {totales['palabras']}\n"
+        f"Caracteres procesados: {totales['caracteres']}\n",
+        encoding="utf-8",
+    )
+    registrar("Ejecución finalizada correctamente")
+    print("Proceso terminado. Revise data/reportes y logs/sistema.log")
+if __name__ == "__main__":
+    main()
