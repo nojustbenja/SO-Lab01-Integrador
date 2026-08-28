@@ -1,1 +1,0 @@
-procesos hilos memoria archivos procesos

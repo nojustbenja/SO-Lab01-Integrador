@@ -1,1 +1,0 @@
-concurrencia concurrencia seccion critica

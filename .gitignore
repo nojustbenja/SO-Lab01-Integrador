@@ -1,0 +1,13 @@
+# Informe (se entrega por separado)
+*.pdf
+
+# Entorno virtual de Python
+venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sistema operativo
+.DS_Store

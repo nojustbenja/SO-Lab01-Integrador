@@ -1,5 +1,0 @@
-Archivo: archivo1.txt
-Líneas: 1
-Palabras: 5
-Caracteres: 36
-Palabra más frecuente: hola
