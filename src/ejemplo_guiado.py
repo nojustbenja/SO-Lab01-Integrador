@@ -6,6 +6,7 @@ from threading import Thread, Lock
 from datetime import date, datetime
 import shutil
 
+
 BASE = Path.home() / "laboratorio_so"
 ENTRADA = BASE / "data" / "entrada"
 PROCESADOS = BASE / "data" / "procesados"
@@ -22,11 +23,13 @@ def registrar (mensaje):
             archivo_log.write(f"{marca_tiempo} - {mensaje}\n")
 
 def procesar_archivo(ruta):
+    import time
+    time.sleep(5)
     contenido = ruta.read_text (encoding="utf-8")
     palabras = contenido.lower().split()
     frecuencia = Counter(palabras)
     palabra_frecuente = frecuencia.most_common(1)[0][0] if palabras else "Sin palabras"
-    reporte = REPORTES / f"reporte_(ruta.stem).txt"
+    reporte = REPORTES / f"reporte_{ruta.stem}.txt"
     reporte.write_text(
         f"Archivo: {ruta.name}\n"
         f"Líneas: {len(contenido.splitlines())}\n"
