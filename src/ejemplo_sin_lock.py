@@ -14,7 +14,7 @@ REPORTES = BASE / "data" / "reportes"
 LOG = BASE / "logs" / "sistema.log"
 cola = Queue()
 bloqueo_log = Lock()
-bloqueo_totales = Lock()
+
 totales = {"archivos": 0, "palabras": 0, "caracteres": 0}
 def registrar (mensaje):
     marca_tiempo = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -23,8 +23,6 @@ def registrar (mensaje):
             archivo_log.write(f"{marca_tiempo} - {mensaje}\n")
 
 def procesar_archivo(ruta):
-    #import time
-    #time.sleep(5)
     contenido = ruta.read_text (encoding="utf-8")
     palabras = contenido.lower().split()
     frecuencia = Counter(palabras)
@@ -38,10 +36,11 @@ def procesar_archivo(ruta):
         f"Palabra más frecuente: {palabra_frecuente}\n",
         encoding="utf-8",
     )
-    with bloqueo_totales:
-        totales ["archivos"] += 1
-        totales["palabras"] += len(palabras)
-        totales["caracteres"] += len(contenido)
+
+    totales["archivos"] += 1
+    totales["palabras"] += len(palabras)
+    totales["caracteres"] += len(contenido)
+
     shutil. move(str(ruta), PROCESADOS / ruta.name)
     registrar(f"Procesado correctamente: {ruta.name}")
 
