@@ -38,20 +38,14 @@ def procesar_archivo(ruta):
         f"Palabra más frecuente: {palabra_frecuente}\n",
         encoding="utf-8",
     )
-
-    # --- VERSIÓN SEGURA (con lock) — DESACTIVADA para la demo ---
-    # with bloqueo_totales:
-    #     totales["archivos"] += 1
-    #     totales["palabras"] += len(palabras)
-    #     totales["caracteres"] += len(contenido)
-
     # --- VERSIÓN EXPERIMENTAL (deliberadamente insegura) — ACTIVA ---
     # Separa lectura y escritura con una pausa para amplificar la condición de carrera.
-    valor_actual = totales["archivos"]  # type: ignore
-    time.sleep(0.001)
-    totales["archivos"] = valor_actual + 1  # type: ignore
-    totales["palabras"] += len(palabras)
-    totales["caracteres"] += len(contenido)
+    with bloqueo_totales:
+        valor_actual = totales["archivos"]  # type: ignore
+        time.sleep(0.001)
+        totales["archivos"] = valor_actual + 1  # type: ignore
+        totales["palabras"] += len(palabras)
+        totales["caracteres"] += len(contenido)
 
     shutil.move(str(ruta), PROCESADOS / ruta.name)
     registrar(f"Procesado correctamente: {ruta.name}")

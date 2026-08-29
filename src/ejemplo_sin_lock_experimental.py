@@ -38,11 +38,6 @@ def procesar_archivo(ruta):
         encoding="utf-8",
     )
 
-    # --- VERSIÓN SIN LOCK (insegura) — DESACTIVADA para la demo ---
-    # totales["archivos"] += 1
-    # totales["palabras"] += len(palabras)
-    # totales["caracteres"] += len(contenido)
-
     # --- VERSIÓN EXPERIMENTAL (condición de carrera amplificada) — ACTIVA ---
     # Sin lock y con pausa entre lectura y escritura: la pérdida de actualizaciones
     # es casi segura de observar en cada ejecución.
