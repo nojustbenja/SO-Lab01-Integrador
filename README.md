@@ -6,8 +6,8 @@ Laboratorio Integrador — Unidad 01 · Grupo 07 · Sistemas Operativos
 
 | Nombre | Rol |
 |---|---|
-| BENJAMIN ZAMORA CUEVAS | Desarrollo versión concurrente segura |
-| JOSE PALMA MIRANDA | Desarrollo versión sin lock / experimental |
+| BENJAMIN ZAMORA CUEVAS | Desarrollo |
+| JOSE PALMA MIRANDA | Desarrollo |
 | THOMAS MARQUEZ ITURRIAGA | Análisis de resultados y evidencia |
 
 ## Requisitos para ejecutar el proyecto
