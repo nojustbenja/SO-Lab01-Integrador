@@ -1031,3 +1031,1129 @@
 2026-08-29 21:39:49 - RESULTADO FINAL — archivos: 100 (esperado: 100)
 2026-08-29 21:39:49 - ### FIN: ejemplo_guiado EXPERIMENTAL
 2026-08-29 21:39:49 - ============================================================
+2026-08-29 23:15:15 - Inicio versión secuencial
+2026-08-29 23:15:15 - Ejecución finalizada correctamente
+2026-08-29 23:15:51 - Inicio versión secuencial
+2026-08-29 23:15:51 - ERROR en archivo_1.txt: ya existe en procesados: archivo_1.txt
+2026-08-29 23:15:51 - ERROR en archivo_10.txt: ya existe en procesados: archivo_10.txt
+2026-08-29 23:15:51 - ERROR en archivo_100.txt: ya existe en procesados: archivo_100.txt
+2026-08-29 23:15:51 - ERROR en archivo_11.txt: ya existe en procesados: archivo_11.txt
+2026-08-29 23:15:51 - ERROR en archivo_12.txt: ya existe en procesados: archivo_12.txt
+2026-08-29 23:15:51 - ERROR en archivo_13.txt: ya existe en procesados: archivo_13.txt
+2026-08-29 23:15:51 - ERROR en archivo_14.txt: ya existe en procesados: archivo_14.txt
+2026-08-29 23:15:51 - ERROR en archivo_15.txt: ya existe en procesados: archivo_15.txt
+2026-08-29 23:15:51 - ERROR en archivo_16.txt: ya existe en procesados: archivo_16.txt
+2026-08-29 23:15:51 - ERROR en archivo_17.txt: ya existe en procesados: archivo_17.txt
+2026-08-29 23:15:51 - ERROR en archivo_18.txt: ya existe en procesados: archivo_18.txt
+2026-08-29 23:15:51 - ERROR en archivo_19.txt: ya existe en procesados: archivo_19.txt
+2026-08-29 23:15:51 - ERROR en archivo_2.txt: ya existe en procesados: archivo_2.txt
+2026-08-29 23:15:51 - ERROR en archivo_20.txt: ya existe en procesados: archivo_20.txt
+2026-08-29 23:15:51 - ERROR en archivo_21.txt: ya existe en procesados: archivo_21.txt
+2026-08-29 23:15:51 - ERROR en archivo_22.txt: ya existe en procesados: archivo_22.txt
+2026-08-29 23:15:51 - ERROR en archivo_23.txt: ya existe en procesados: archivo_23.txt
+2026-08-29 23:15:51 - ERROR en archivo_24.txt: ya existe en procesados: archivo_24.txt
+2026-08-29 23:15:51 - ERROR en archivo_25.txt: ya existe en procesados: archivo_25.txt
+2026-08-29 23:15:51 - ERROR en archivo_26.txt: ya existe en procesados: archivo_26.txt
+2026-08-29 23:15:51 - ERROR en archivo_27.txt: ya existe en procesados: archivo_27.txt
+2026-08-29 23:15:51 - ERROR en archivo_28.txt: ya existe en procesados: archivo_28.txt
+2026-08-29 23:15:51 - ERROR en archivo_29.txt: ya existe en procesados: archivo_29.txt
+2026-08-29 23:15:51 - ERROR en archivo_3.txt: ya existe en procesados: archivo_3.txt
+2026-08-29 23:15:51 - ERROR en archivo_30.txt: ya existe en procesados: archivo_30.txt
+2026-08-29 23:15:51 - ERROR en archivo_31.txt: ya existe en procesados: archivo_31.txt
+2026-08-29 23:15:51 - ERROR en archivo_32.txt: ya existe en procesados: archivo_32.txt
+2026-08-29 23:15:51 - ERROR en archivo_33.txt: ya existe en procesados: archivo_33.txt
+2026-08-29 23:15:51 - ERROR en archivo_34.txt: ya existe en procesados: archivo_34.txt
+2026-08-29 23:15:51 - ERROR en archivo_35.txt: ya existe en procesados: archivo_35.txt
+2026-08-29 23:15:51 - ERROR en archivo_36.txt: ya existe en procesados: archivo_36.txt
+2026-08-29 23:15:51 - ERROR en archivo_37.txt: ya existe en procesados: archivo_37.txt
+2026-08-29 23:15:51 - ERROR en archivo_38.txt: ya existe en procesados: archivo_38.txt
+2026-08-29 23:15:51 - ERROR en archivo_39.txt: ya existe en procesados: archivo_39.txt
+2026-08-29 23:15:51 - ERROR en archivo_4.txt: ya existe en procesados: archivo_4.txt
+2026-08-29 23:15:51 - ERROR en archivo_40.txt: ya existe en procesados: archivo_40.txt
+2026-08-29 23:15:51 - ERROR en archivo_41.txt: ya existe en procesados: archivo_41.txt
+2026-08-29 23:15:51 - ERROR en archivo_42.txt: ya existe en procesados: archivo_42.txt
+2026-08-29 23:15:51 - ERROR en archivo_43.txt: ya existe en procesados: archivo_43.txt
+2026-08-29 23:15:51 - ERROR en archivo_44.txt: ya existe en procesados: archivo_44.txt
+2026-08-29 23:15:51 - ERROR en archivo_45.txt: ya existe en procesados: archivo_45.txt
+2026-08-29 23:15:51 - ERROR en archivo_46.txt: ya existe en procesados: archivo_46.txt
+2026-08-29 23:15:51 - ERROR en archivo_47.txt: ya existe en procesados: archivo_47.txt
+2026-08-29 23:15:51 - ERROR en archivo_48.txt: ya existe en procesados: archivo_48.txt
+2026-08-29 23:15:51 - ERROR en archivo_49.txt: ya existe en procesados: archivo_49.txt
+2026-08-29 23:15:51 - ERROR en archivo_5.txt: ya existe en procesados: archivo_5.txt
+2026-08-29 23:15:51 - ERROR en archivo_50.txt: ya existe en procesados: archivo_50.txt
+2026-08-29 23:15:51 - ERROR en archivo_51.txt: ya existe en procesados: archivo_51.txt
+2026-08-29 23:15:51 - ERROR en archivo_52.txt: ya existe en procesados: archivo_52.txt
+2026-08-29 23:15:51 - ERROR en archivo_53.txt: ya existe en procesados: archivo_53.txt
+2026-08-29 23:15:51 - ERROR en archivo_54.txt: ya existe en procesados: archivo_54.txt
+2026-08-29 23:15:51 - ERROR en archivo_55.txt: ya existe en procesados: archivo_55.txt
+2026-08-29 23:15:51 - ERROR en archivo_56.txt: ya existe en procesados: archivo_56.txt
+2026-08-29 23:15:51 - ERROR en archivo_57.txt: ya existe en procesados: archivo_57.txt
+2026-08-29 23:15:51 - ERROR en archivo_58.txt: ya existe en procesados: archivo_58.txt
+2026-08-29 23:15:51 - ERROR en archivo_59.txt: ya existe en procesados: archivo_59.txt
+2026-08-29 23:15:51 - ERROR en archivo_6.txt: ya existe en procesados: archivo_6.txt
+2026-08-29 23:15:51 - ERROR en archivo_60.txt: ya existe en procesados: archivo_60.txt
+2026-08-29 23:15:51 - ERROR en archivo_61.txt: ya existe en procesados: archivo_61.txt
+2026-08-29 23:15:51 - ERROR en archivo_62.txt: ya existe en procesados: archivo_62.txt
+2026-08-29 23:15:51 - ERROR en archivo_63.txt: ya existe en procesados: archivo_63.txt
+2026-08-29 23:15:51 - ERROR en archivo_64.txt: ya existe en procesados: archivo_64.txt
+2026-08-29 23:15:51 - ERROR en archivo_65.txt: ya existe en procesados: archivo_65.txt
+2026-08-29 23:15:51 - ERROR en archivo_66.txt: ya existe en procesados: archivo_66.txt
+2026-08-29 23:15:51 - ERROR en archivo_67.txt: ya existe en procesados: archivo_67.txt
+2026-08-29 23:15:51 - ERROR en archivo_68.txt: ya existe en procesados: archivo_68.txt
+2026-08-29 23:15:51 - ERROR en archivo_69.txt: ya existe en procesados: archivo_69.txt
+2026-08-29 23:15:51 - ERROR en archivo_7.txt: ya existe en procesados: archivo_7.txt
+2026-08-29 23:15:51 - ERROR en archivo_70.txt: ya existe en procesados: archivo_70.txt
+2026-08-29 23:15:51 - ERROR en archivo_71.txt: ya existe en procesados: archivo_71.txt
+2026-08-29 23:15:51 - ERROR en archivo_72.txt: ya existe en procesados: archivo_72.txt
+2026-08-29 23:15:51 - ERROR en archivo_73.txt: ya existe en procesados: archivo_73.txt
+2026-08-29 23:15:51 - ERROR en archivo_74.txt: ya existe en procesados: archivo_74.txt
+2026-08-29 23:15:51 - ERROR en archivo_75.txt: ya existe en procesados: archivo_75.txt
+2026-08-29 23:15:51 - ERROR en archivo_76.txt: ya existe en procesados: archivo_76.txt
+2026-08-29 23:15:51 - ERROR en archivo_77.txt: ya existe en procesados: archivo_77.txt
+2026-08-29 23:15:51 - ERROR en archivo_78.txt: ya existe en procesados: archivo_78.txt
+2026-08-29 23:15:51 - ERROR en archivo_79.txt: ya existe en procesados: archivo_79.txt
+2026-08-29 23:15:51 - ERROR en archivo_8.txt: ya existe en procesados: archivo_8.txt
+2026-08-29 23:15:51 - ERROR en archivo_80.txt: ya existe en procesados: archivo_80.txt
+2026-08-29 23:15:51 - ERROR en archivo_81.txt: ya existe en procesados: archivo_81.txt
+2026-08-29 23:15:51 - ERROR en archivo_82.txt: ya existe en procesados: archivo_82.txt
+2026-08-29 23:15:51 - ERROR en archivo_83.txt: ya existe en procesados: archivo_83.txt
+2026-08-29 23:15:51 - ERROR en archivo_84.txt: ya existe en procesados: archivo_84.txt
+2026-08-29 23:15:51 - ERROR en archivo_85.txt: ya existe en procesados: archivo_85.txt
+2026-08-29 23:15:51 - ERROR en archivo_86.txt: ya existe en procesados: archivo_86.txt
+2026-08-29 23:15:51 - ERROR en archivo_87.txt: ya existe en procesados: archivo_87.txt
+2026-08-29 23:15:51 - ERROR en archivo_88.txt: ya existe en procesados: archivo_88.txt
+2026-08-29 23:15:51 - ERROR en archivo_89.txt: ya existe en procesados: archivo_89.txt
+2026-08-29 23:15:51 - ERROR en archivo_9.txt: ya existe en procesados: archivo_9.txt
+2026-08-29 23:15:51 - ERROR en archivo_90.txt: ya existe en procesados: archivo_90.txt
+2026-08-29 23:15:51 - ERROR en archivo_91.txt: ya existe en procesados: archivo_91.txt
+2026-08-29 23:15:51 - ERROR en archivo_92.txt: ya existe en procesados: archivo_92.txt
+2026-08-29 23:15:51 - ERROR en archivo_93.txt: ya existe en procesados: archivo_93.txt
+2026-08-29 23:15:51 - ERROR en archivo_94.txt: ya existe en procesados: archivo_94.txt
+2026-08-29 23:15:51 - ERROR en archivo_95.txt: ya existe en procesados: archivo_95.txt
+2026-08-29 23:15:51 - ERROR en archivo_96.txt: ya existe en procesados: archivo_96.txt
+2026-08-29 23:15:51 - ERROR en archivo_97.txt: ya existe en procesados: archivo_97.txt
+2026-08-29 23:15:51 - ERROR en archivo_98.txt: ya existe en procesados: archivo_98.txt
+2026-08-29 23:15:51 - ERROR en archivo_99.txt: ya existe en procesados: archivo_99.txt
+2026-08-29 23:15:51 - Ejecución finalizada correctamente
+2026-08-29 23:17:02 - Inicio versión secuencial
+2026-08-29 23:17:02 - ERROR en archivo_1.txt: ya existe en procesados: archivo_1.txt
+2026-08-29 23:17:02 - ERROR en archivo_10.txt: ya existe en procesados: archivo_10.txt
+2026-08-29 23:17:02 - ERROR en archivo_100.txt: ya existe en procesados: archivo_100.txt
+2026-08-29 23:17:02 - ERROR en archivo_11.txt: ya existe en procesados: archivo_11.txt
+2026-08-29 23:17:02 - ERROR en archivo_12.txt: ya existe en procesados: archivo_12.txt
+2026-08-29 23:17:02 - ERROR en archivo_13.txt: ya existe en procesados: archivo_13.txt
+2026-08-29 23:17:02 - ERROR en archivo_14.txt: ya existe en procesados: archivo_14.txt
+2026-08-29 23:17:02 - ERROR en archivo_15.txt: ya existe en procesados: archivo_15.txt
+2026-08-29 23:17:02 - ERROR en archivo_16.txt: ya existe en procesados: archivo_16.txt
+2026-08-29 23:17:02 - ERROR en archivo_17.txt: ya existe en procesados: archivo_17.txt
+2026-08-29 23:17:02 - ERROR en archivo_18.txt: ya existe en procesados: archivo_18.txt
+2026-08-29 23:17:02 - ERROR en archivo_19.txt: ya existe en procesados: archivo_19.txt
+2026-08-29 23:17:02 - ERROR en archivo_2.txt: ya existe en procesados: archivo_2.txt
+2026-08-29 23:17:02 - ERROR en archivo_20.txt: ya existe en procesados: archivo_20.txt
+2026-08-29 23:17:02 - ERROR en archivo_21.txt: ya existe en procesados: archivo_21.txt
+2026-08-29 23:17:02 - ERROR en archivo_22.txt: ya existe en procesados: archivo_22.txt
+2026-08-29 23:17:02 - ERROR en archivo_23.txt: ya existe en procesados: archivo_23.txt
+2026-08-29 23:17:02 - ERROR en archivo_24.txt: ya existe en procesados: archivo_24.txt
+2026-08-29 23:17:02 - ERROR en archivo_25.txt: ya existe en procesados: archivo_25.txt
+2026-08-29 23:17:02 - ERROR en archivo_26.txt: ya existe en procesados: archivo_26.txt
+2026-08-29 23:17:02 - ERROR en archivo_27.txt: ya existe en procesados: archivo_27.txt
+2026-08-29 23:17:02 - ERROR en archivo_28.txt: ya existe en procesados: archivo_28.txt
+2026-08-29 23:17:02 - ERROR en archivo_29.txt: ya existe en procesados: archivo_29.txt
+2026-08-29 23:17:02 - ERROR en archivo_3.txt: ya existe en procesados: archivo_3.txt
+2026-08-29 23:17:02 - ERROR en archivo_30.txt: ya existe en procesados: archivo_30.txt
+2026-08-29 23:17:02 - ERROR en archivo_31.txt: ya existe en procesados: archivo_31.txt
+2026-08-29 23:17:02 - ERROR en archivo_32.txt: ya existe en procesados: archivo_32.txt
+2026-08-29 23:17:02 - ERROR en archivo_33.txt: ya existe en procesados: archivo_33.txt
+2026-08-29 23:17:02 - ERROR en archivo_34.txt: ya existe en procesados: archivo_34.txt
+2026-08-29 23:17:02 - ERROR en archivo_35.txt: ya existe en procesados: archivo_35.txt
+2026-08-29 23:17:02 - ERROR en archivo_36.txt: ya existe en procesados: archivo_36.txt
+2026-08-29 23:17:02 - ERROR en archivo_37.txt: ya existe en procesados: archivo_37.txt
+2026-08-29 23:17:02 - ERROR en archivo_38.txt: ya existe en procesados: archivo_38.txt
+2026-08-29 23:17:02 - ERROR en archivo_39.txt: ya existe en procesados: archivo_39.txt
+2026-08-29 23:17:02 - ERROR en archivo_4.txt: ya existe en procesados: archivo_4.txt
+2026-08-29 23:17:02 - ERROR en archivo_40.txt: ya existe en procesados: archivo_40.txt
+2026-08-29 23:17:02 - ERROR en archivo_41.txt: ya existe en procesados: archivo_41.txt
+2026-08-29 23:17:02 - ERROR en archivo_42.txt: ya existe en procesados: archivo_42.txt
+2026-08-29 23:17:02 - ERROR en archivo_43.txt: ya existe en procesados: archivo_43.txt
+2026-08-29 23:17:02 - ERROR en archivo_44.txt: ya existe en procesados: archivo_44.txt
+2026-08-29 23:17:02 - ERROR en archivo_45.txt: ya existe en procesados: archivo_45.txt
+2026-08-29 23:17:02 - ERROR en archivo_46.txt: ya existe en procesados: archivo_46.txt
+2026-08-29 23:17:02 - ERROR en archivo_47.txt: ya existe en procesados: archivo_47.txt
+2026-08-29 23:17:02 - ERROR en archivo_48.txt: ya existe en procesados: archivo_48.txt
+2026-08-29 23:17:02 - ERROR en archivo_49.txt: ya existe en procesados: archivo_49.txt
+2026-08-29 23:17:02 - ERROR en archivo_5.txt: ya existe en procesados: archivo_5.txt
+2026-08-29 23:17:02 - ERROR en archivo_50.txt: ya existe en procesados: archivo_50.txt
+2026-08-29 23:17:02 - ERROR en archivo_51.txt: ya existe en procesados: archivo_51.txt
+2026-08-29 23:17:02 - ERROR en archivo_52.txt: ya existe en procesados: archivo_52.txt
+2026-08-29 23:17:02 - ERROR en archivo_53.txt: ya existe en procesados: archivo_53.txt
+2026-08-29 23:17:02 - ERROR en archivo_54.txt: ya existe en procesados: archivo_54.txt
+2026-08-29 23:17:02 - ERROR en archivo_55.txt: ya existe en procesados: archivo_55.txt
+2026-08-29 23:17:02 - ERROR en archivo_56.txt: ya existe en procesados: archivo_56.txt
+2026-08-29 23:17:02 - ERROR en archivo_57.txt: ya existe en procesados: archivo_57.txt
+2026-08-29 23:17:02 - ERROR en archivo_58.txt: ya existe en procesados: archivo_58.txt
+2026-08-29 23:17:02 - ERROR en archivo_59.txt: ya existe en procesados: archivo_59.txt
+2026-08-29 23:17:02 - ERROR en archivo_6.txt: ya existe en procesados: archivo_6.txt
+2026-08-29 23:17:02 - ERROR en archivo_60.txt: ya existe en procesados: archivo_60.txt
+2026-08-29 23:17:02 - ERROR en archivo_61.txt: ya existe en procesados: archivo_61.txt
+2026-08-29 23:17:02 - ERROR en archivo_62.txt: ya existe en procesados: archivo_62.txt
+2026-08-29 23:17:02 - ERROR en archivo_63.txt: ya existe en procesados: archivo_63.txt
+2026-08-29 23:17:02 - ERROR en archivo_64.txt: ya existe en procesados: archivo_64.txt
+2026-08-29 23:17:02 - ERROR en archivo_65.txt: ya existe en procesados: archivo_65.txt
+2026-08-29 23:17:02 - ERROR en archivo_66.txt: ya existe en procesados: archivo_66.txt
+2026-08-29 23:17:02 - ERROR en archivo_67.txt: ya existe en procesados: archivo_67.txt
+2026-08-29 23:17:02 - ERROR en archivo_68.txt: ya existe en procesados: archivo_68.txt
+2026-08-29 23:17:02 - ERROR en archivo_69.txt: ya existe en procesados: archivo_69.txt
+2026-08-29 23:17:02 - ERROR en archivo_7.txt: ya existe en procesados: archivo_7.txt
+2026-08-29 23:17:02 - ERROR en archivo_70.txt: ya existe en procesados: archivo_70.txt
+2026-08-29 23:17:02 - ERROR en archivo_71.txt: ya existe en procesados: archivo_71.txt
+2026-08-29 23:17:02 - ERROR en archivo_72.txt: ya existe en procesados: archivo_72.txt
+2026-08-29 23:17:02 - ERROR en archivo_73.txt: ya existe en procesados: archivo_73.txt
+2026-08-29 23:17:02 - ERROR en archivo_74.txt: ya existe en procesados: archivo_74.txt
+2026-08-29 23:17:02 - ERROR en archivo_75.txt: ya existe en procesados: archivo_75.txt
+2026-08-29 23:17:02 - ERROR en archivo_76.txt: ya existe en procesados: archivo_76.txt
+2026-08-29 23:17:02 - ERROR en archivo_77.txt: ya existe en procesados: archivo_77.txt
+2026-08-29 23:17:02 - ERROR en archivo_78.txt: ya existe en procesados: archivo_78.txt
+2026-08-29 23:17:02 - ERROR en archivo_79.txt: ya existe en procesados: archivo_79.txt
+2026-08-29 23:17:02 - ERROR en archivo_8.txt: ya existe en procesados: archivo_8.txt
+2026-08-29 23:17:02 - ERROR en archivo_80.txt: ya existe en procesados: archivo_80.txt
+2026-08-29 23:17:02 - ERROR en archivo_81.txt: ya existe en procesados: archivo_81.txt
+2026-08-29 23:17:02 - ERROR en archivo_82.txt: ya existe en procesados: archivo_82.txt
+2026-08-29 23:17:02 - ERROR en archivo_83.txt: ya existe en procesados: archivo_83.txt
+2026-08-29 23:17:02 - ERROR en archivo_84.txt: ya existe en procesados: archivo_84.txt
+2026-08-29 23:17:02 - ERROR en archivo_85.txt: ya existe en procesados: archivo_85.txt
+2026-08-29 23:17:02 - ERROR en archivo_86.txt: ya existe en procesados: archivo_86.txt
+2026-08-29 23:17:02 - ERROR en archivo_87.txt: ya existe en procesados: archivo_87.txt
+2026-08-29 23:17:02 - ERROR en archivo_88.txt: ya existe en procesados: archivo_88.txt
+2026-08-29 23:17:02 - ERROR en archivo_89.txt: ya existe en procesados: archivo_89.txt
+2026-08-29 23:17:02 - ERROR en archivo_9.txt: ya existe en procesados: archivo_9.txt
+2026-08-29 23:17:02 - ERROR en archivo_90.txt: ya existe en procesados: archivo_90.txt
+2026-08-29 23:17:02 - ERROR en archivo_91.txt: ya existe en procesados: archivo_91.txt
+2026-08-29 23:17:02 - ERROR en archivo_92.txt: ya existe en procesados: archivo_92.txt
+2026-08-29 23:17:02 - ERROR en archivo_93.txt: ya existe en procesados: archivo_93.txt
+2026-08-29 23:17:02 - ERROR en archivo_94.txt: ya existe en procesados: archivo_94.txt
+2026-08-29 23:17:02 - ERROR en archivo_95.txt: ya existe en procesados: archivo_95.txt
+2026-08-29 23:17:02 - ERROR en archivo_96.txt: ya existe en procesados: archivo_96.txt
+2026-08-29 23:17:02 - ERROR en archivo_97.txt: ya existe en procesados: archivo_97.txt
+2026-08-29 23:17:02 - ERROR en archivo_98.txt: ya existe en procesados: archivo_98.txt
+2026-08-29 23:17:02 - ERROR en archivo_99.txt: ya existe en procesados: archivo_99.txt
+2026-08-29 23:17:02 - Ejecución finalizada correctamente
+2026-08-29 23:17:42 - Inicio versión secuencial
+2026-08-29 23:17:42 - Procesado correctamente: archivo_1.txt
+2026-08-29 23:17:42 - ERROR en archivo_10.txt: ya existe en procesados: archivo_10.txt
+2026-08-29 23:17:42 - ERROR en archivo_100.txt: ya existe en procesados: archivo_100.txt
+2026-08-29 23:17:42 - ERROR en archivo_11.txt: ya existe en procesados: archivo_11.txt
+2026-08-29 23:17:42 - ERROR en archivo_12.txt: ya existe en procesados: archivo_12.txt
+2026-08-29 23:17:42 - ERROR en archivo_13.txt: ya existe en procesados: archivo_13.txt
+2026-08-29 23:17:42 - ERROR en archivo_14.txt: ya existe en procesados: archivo_14.txt
+2026-08-29 23:17:42 - ERROR en archivo_15.txt: ya existe en procesados: archivo_15.txt
+2026-08-29 23:17:42 - ERROR en archivo_16.txt: ya existe en procesados: archivo_16.txt
+2026-08-29 23:17:42 - ERROR en archivo_17.txt: ya existe en procesados: archivo_17.txt
+2026-08-29 23:17:42 - ERROR en archivo_18.txt: ya existe en procesados: archivo_18.txt
+2026-08-29 23:17:42 - ERROR en archivo_19.txt: ya existe en procesados: archivo_19.txt
+2026-08-29 23:17:42 - Procesado correctamente: archivo_2.txt
+2026-08-29 23:17:42 - ERROR en archivo_20.txt: ya existe en procesados: archivo_20.txt
+2026-08-29 23:17:42 - ERROR en archivo_21.txt: ya existe en procesados: archivo_21.txt
+2026-08-29 23:17:42 - ERROR en archivo_22.txt: ya existe en procesados: archivo_22.txt
+2026-08-29 23:17:42 - ERROR en archivo_23.txt: ya existe en procesados: archivo_23.txt
+2026-08-29 23:17:42 - ERROR en archivo_24.txt: ya existe en procesados: archivo_24.txt
+2026-08-29 23:17:42 - ERROR en archivo_25.txt: ya existe en procesados: archivo_25.txt
+2026-08-29 23:17:42 - ERROR en archivo_26.txt: ya existe en procesados: archivo_26.txt
+2026-08-29 23:17:42 - ERROR en archivo_27.txt: ya existe en procesados: archivo_27.txt
+2026-08-29 23:17:42 - ERROR en archivo_28.txt: ya existe en procesados: archivo_28.txt
+2026-08-29 23:17:42 - ERROR en archivo_29.txt: ya existe en procesados: archivo_29.txt
+2026-08-29 23:17:42 - ERROR en archivo_3.txt: ya existe en procesados: archivo_3.txt
+2026-08-29 23:17:42 - ERROR en archivo_30.txt: ya existe en procesados: archivo_30.txt
+2026-08-29 23:17:42 - ERROR en archivo_31.txt: ya existe en procesados: archivo_31.txt
+2026-08-29 23:17:42 - ERROR en archivo_32.txt: ya existe en procesados: archivo_32.txt
+2026-08-29 23:17:42 - ERROR en archivo_33.txt: ya existe en procesados: archivo_33.txt
+2026-08-29 23:17:42 - ERROR en archivo_34.txt: ya existe en procesados: archivo_34.txt
+2026-08-29 23:17:42 - ERROR en archivo_35.txt: ya existe en procesados: archivo_35.txt
+2026-08-29 23:17:42 - ERROR en archivo_36.txt: ya existe en procesados: archivo_36.txt
+2026-08-29 23:17:42 - ERROR en archivo_37.txt: ya existe en procesados: archivo_37.txt
+2026-08-29 23:17:42 - ERROR en archivo_38.txt: ya existe en procesados: archivo_38.txt
+2026-08-29 23:17:42 - ERROR en archivo_39.txt: ya existe en procesados: archivo_39.txt
+2026-08-29 23:17:42 - ERROR en archivo_4.txt: ya existe en procesados: archivo_4.txt
+2026-08-29 23:17:42 - ERROR en archivo_40.txt: ya existe en procesados: archivo_40.txt
+2026-08-29 23:17:42 - ERROR en archivo_41.txt: ya existe en procesados: archivo_41.txt
+2026-08-29 23:17:42 - ERROR en archivo_42.txt: ya existe en procesados: archivo_42.txt
+2026-08-29 23:17:42 - ERROR en archivo_43.txt: ya existe en procesados: archivo_43.txt
+2026-08-29 23:17:42 - ERROR en archivo_44.txt: ya existe en procesados: archivo_44.txt
+2026-08-29 23:17:42 - ERROR en archivo_45.txt: ya existe en procesados: archivo_45.txt
+2026-08-29 23:17:42 - ERROR en archivo_46.txt: ya existe en procesados: archivo_46.txt
+2026-08-29 23:17:42 - ERROR en archivo_47.txt: ya existe en procesados: archivo_47.txt
+2026-08-29 23:17:42 - ERROR en archivo_48.txt: ya existe en procesados: archivo_48.txt
+2026-08-29 23:17:42 - ERROR en archivo_49.txt: ya existe en procesados: archivo_49.txt
+2026-08-29 23:17:42 - ERROR en archivo_5.txt: ya existe en procesados: archivo_5.txt
+2026-08-29 23:17:42 - ERROR en archivo_50.txt: ya existe en procesados: archivo_50.txt
+2026-08-29 23:17:42 - ERROR en archivo_51.txt: ya existe en procesados: archivo_51.txt
+2026-08-29 23:17:42 - ERROR en archivo_52.txt: ya existe en procesados: archivo_52.txt
+2026-08-29 23:17:42 - ERROR en archivo_53.txt: ya existe en procesados: archivo_53.txt
+2026-08-29 23:17:42 - ERROR en archivo_54.txt: ya existe en procesados: archivo_54.txt
+2026-08-29 23:17:42 - ERROR en archivo_55.txt: ya existe en procesados: archivo_55.txt
+2026-08-29 23:17:42 - ERROR en archivo_56.txt: ya existe en procesados: archivo_56.txt
+2026-08-29 23:17:42 - ERROR en archivo_57.txt: ya existe en procesados: archivo_57.txt
+2026-08-29 23:17:42 - ERROR en archivo_58.txt: ya existe en procesados: archivo_58.txt
+2026-08-29 23:17:42 - ERROR en archivo_59.txt: ya existe en procesados: archivo_59.txt
+2026-08-29 23:17:42 - ERROR en archivo_6.txt: ya existe en procesados: archivo_6.txt
+2026-08-29 23:17:42 - ERROR en archivo_60.txt: ya existe en procesados: archivo_60.txt
+2026-08-29 23:17:42 - ERROR en archivo_61.txt: ya existe en procesados: archivo_61.txt
+2026-08-29 23:17:42 - ERROR en archivo_62.txt: ya existe en procesados: archivo_62.txt
+2026-08-29 23:17:42 - ERROR en archivo_63.txt: ya existe en procesados: archivo_63.txt
+2026-08-29 23:17:42 - ERROR en archivo_64.txt: ya existe en procesados: archivo_64.txt
+2026-08-29 23:17:42 - ERROR en archivo_65.txt: ya existe en procesados: archivo_65.txt
+2026-08-29 23:17:42 - ERROR en archivo_66.txt: ya existe en procesados: archivo_66.txt
+2026-08-29 23:17:42 - ERROR en archivo_67.txt: ya existe en procesados: archivo_67.txt
+2026-08-29 23:17:42 - ERROR en archivo_68.txt: ya existe en procesados: archivo_68.txt
+2026-08-29 23:17:42 - ERROR en archivo_69.txt: ya existe en procesados: archivo_69.txt
+2026-08-29 23:17:42 - ERROR en archivo_7.txt: ya existe en procesados: archivo_7.txt
+2026-08-29 23:17:42 - ERROR en archivo_70.txt: ya existe en procesados: archivo_70.txt
+2026-08-29 23:17:42 - ERROR en archivo_71.txt: ya existe en procesados: archivo_71.txt
+2026-08-29 23:17:42 - ERROR en archivo_72.txt: ya existe en procesados: archivo_72.txt
+2026-08-29 23:17:42 - ERROR en archivo_73.txt: ya existe en procesados: archivo_73.txt
+2026-08-29 23:17:42 - ERROR en archivo_74.txt: ya existe en procesados: archivo_74.txt
+2026-08-29 23:17:42 - ERROR en archivo_75.txt: ya existe en procesados: archivo_75.txt
+2026-08-29 23:17:42 - ERROR en archivo_76.txt: ya existe en procesados: archivo_76.txt
+2026-08-29 23:17:42 - ERROR en archivo_77.txt: ya existe en procesados: archivo_77.txt
+2026-08-29 23:17:42 - ERROR en archivo_78.txt: ya existe en procesados: archivo_78.txt
+2026-08-29 23:17:42 - ERROR en archivo_79.txt: ya existe en procesados: archivo_79.txt
+2026-08-29 23:17:42 - ERROR en archivo_8.txt: ya existe en procesados: archivo_8.txt
+2026-08-29 23:17:42 - ERROR en archivo_80.txt: ya existe en procesados: archivo_80.txt
+2026-08-29 23:17:42 - ERROR en archivo_81.txt: ya existe en procesados: archivo_81.txt
+2026-08-29 23:17:42 - ERROR en archivo_82.txt: ya existe en procesados: archivo_82.txt
+2026-08-29 23:17:42 - ERROR en archivo_83.txt: ya existe en procesados: archivo_83.txt
+2026-08-29 23:17:42 - ERROR en archivo_84.txt: ya existe en procesados: archivo_84.txt
+2026-08-29 23:17:42 - ERROR en archivo_85.txt: ya existe en procesados: archivo_85.txt
+2026-08-29 23:17:42 - ERROR en archivo_86.txt: ya existe en procesados: archivo_86.txt
+2026-08-29 23:17:42 - ERROR en archivo_87.txt: ya existe en procesados: archivo_87.txt
+2026-08-29 23:17:42 - ERROR en archivo_88.txt: ya existe en procesados: archivo_88.txt
+2026-08-29 23:17:42 - ERROR en archivo_89.txt: ya existe en procesados: archivo_89.txt
+2026-08-29 23:17:42 - ERROR en archivo_9.txt: ya existe en procesados: archivo_9.txt
+2026-08-29 23:17:42 - ERROR en archivo_90.txt: ya existe en procesados: archivo_90.txt
+2026-08-29 23:17:42 - ERROR en archivo_91.txt: ya existe en procesados: archivo_91.txt
+2026-08-29 23:17:42 - ERROR en archivo_92.txt: ya existe en procesados: archivo_92.txt
+2026-08-29 23:17:42 - ERROR en archivo_93.txt: ya existe en procesados: archivo_93.txt
+2026-08-29 23:17:42 - ERROR en archivo_94.txt: ya existe en procesados: archivo_94.txt
+2026-08-29 23:17:42 - ERROR en archivo_95.txt: ya existe en procesados: archivo_95.txt
+2026-08-29 23:17:42 - ERROR en archivo_96.txt: ya existe en procesados: archivo_96.txt
+2026-08-29 23:17:42 - ERROR en archivo_97.txt: ya existe en procesados: archivo_97.txt
+2026-08-29 23:17:42 - ERROR en archivo_98.txt: ya existe en procesados: archivo_98.txt
+2026-08-29 23:17:42 - ERROR en archivo_99.txt: ya existe en procesados: archivo_99.txt
+2026-08-29 23:17:42 - Ejecución finalizada correctamente
+2026-08-30 01:04:46 - Inicio versión concurrente
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_1.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_10.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_100.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_11.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_12.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_13.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_14.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_15.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_16.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_17.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_18.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_19.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_2.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_20.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_21.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_22.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_23.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_24.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_100.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_25.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_26.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_1.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_10.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_27.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_28.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_29.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_3.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_30.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_31.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_32.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_33.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_34.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_35.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_36.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_37.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_38.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_39.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_12.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_13.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_11.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_4.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_40.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_41.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_42.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_43.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_44.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_45.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_46.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_47.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_48.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_49.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_5.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_50.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_51.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_52.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_53.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_54.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_55.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_15.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_56.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_57.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_58.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_16.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_59.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_14.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_18.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_6.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_60.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_61.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_62.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_63.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_64.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_65.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_66.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_67.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_68.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_69.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_7.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_70.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_71.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_72.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_73.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_74.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_75.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_76.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_77.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_78.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_79.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_8.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_17.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_2.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_80.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_81.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_82.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_83.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_84.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_85.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_86.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_87.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_88.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_89.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_9.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_90.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_91.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_92.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_93.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_94.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_95.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_96.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_97.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_98.txt
+2026-08-30 01:04:46 - Archivo agregado a la cola: archivo_99.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_21.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_20.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_19.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_24.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_23.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_25.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_26.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_28.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_29.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_3.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_22.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_30.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_31.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_32.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_33.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_34.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_27.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_36.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_35.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_39.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_4.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_38.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_37.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_40.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_42.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_41.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_44.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_45.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_46.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_43.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_49.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_48.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_50.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_47.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_52.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_53.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_5.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_51.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_55.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_54.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_56.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_57.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_59.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_60.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_58.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_61.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_62.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_6.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_63.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_64.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_66.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_65.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_67.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_68.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_69.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_7.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_70.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_72.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_73.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_71.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_74.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_76.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_78.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_75.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_77.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_8.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_79.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_81.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_82.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_80.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_85.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_83.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_87.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_84.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_86.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_89.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_88.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_90.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_92.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_9.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_91.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_94.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_95.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_93.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_96.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_99.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_97.txt
+2026-08-30 01:04:46 - Procesado correctamente: archivo_98.txt
+2026-08-30 01:04:46 - Ejecución finalizada correctamente
+2026-08-30 01:20:19 - Inicio versión secuencial
+2026-08-30 01:20:19 - Procesado correctamente: archivo_1.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_10.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_100.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_11.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_12.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_13.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_14.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_15.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_16.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_17.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_18.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_19.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_2.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_20.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_21.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_22.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_23.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_24.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_25.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_26.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_27.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_28.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_29.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_3.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_30.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_31.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_32.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_33.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_34.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_35.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_36.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_37.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_38.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_39.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_4.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_40.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_41.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_42.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_43.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_44.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_45.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_46.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_47.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_48.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_49.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_5.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_50.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_51.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_52.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_53.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_54.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_55.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_56.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_57.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_58.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_59.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_6.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_60.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_61.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_62.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_63.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_64.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_65.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_66.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_67.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_68.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_69.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_7.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_70.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_71.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_72.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_73.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_74.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_75.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_76.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_77.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_78.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_79.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_8.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_80.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_81.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_82.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_83.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_84.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_85.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_86.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_87.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_88.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_89.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_9.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_90.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_91.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_92.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_93.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_94.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_95.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_96.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_97.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_98.txt
+2026-08-30 01:20:19 - Procesado correctamente: archivo_99.txt
+2026-08-30 01:20:19 - Ejecución finalizada correctamente
+2026-08-30 01:20:24 - Inicio versión concurrente
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_1.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_10.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_100.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_11.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_12.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_13.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_14.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_15.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_16.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_17.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_18.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_19.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_2.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_20.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_21.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_22.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_23.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_24.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_25.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_26.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_27.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_28.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_29.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_3.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_30.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_31.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_32.txt
+2026-08-30 01:20:24 - SKIP: archivo_1.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_33.txt
+2026-08-30 01:20:24 - SKIP: archivo_10.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_100.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_13.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_14.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_34.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_35.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_36.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_37.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_38.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_39.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_4.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_40.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_41.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_42.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_43.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_44.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_45.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_46.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_47.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_48.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_49.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_5.txt
+2026-08-30 01:20:24 - SKIP: archivo_11.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_12.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_15.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_18.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_19.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_17.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_20.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_16.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_50.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_51.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_52.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_53.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_54.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_55.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_56.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_57.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_58.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_59.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_6.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_60.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_61.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_62.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_63.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_64.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_65.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_66.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_67.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_68.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_69.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_7.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_70.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_71.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_72.txt
+2026-08-30 01:20:24 - SKIP: archivo_22.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_23.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_2.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_21.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_26.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_27.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_28.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_29.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_3.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_73.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_74.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_75.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_76.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_77.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_78.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_79.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_8.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_80.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_81.txt
+2026-08-30 01:20:24 - SKIP: archivo_25.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_24.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_32.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_33.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_34.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_35.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_30.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_37.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_38.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_39.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_36.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_4.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_41.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_42.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_43.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_44.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_82.txt
+2026-08-30 01:20:24 - SKIP: archivo_31.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_46.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_47.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_40.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_45.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_49.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_5.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_83.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_84.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_85.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_86.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_87.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_88.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_89.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_9.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_90.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_91.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_92.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_93.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_94.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_95.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_96.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_97.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_98.txt
+2026-08-30 01:20:24 - Archivo agregado a la cola: archivo_99.txt
+2026-08-30 01:20:24 - SKIP: archivo_51.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_48.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_50.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_54.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_53.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_56.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_57.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_58.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_59.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_6.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_60.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_61.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_52.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_63.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_64.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_65.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_62.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_55.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_68.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_69.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_7.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_70.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_71.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_72.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_73.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_74.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_75.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_76.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_77.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_78.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_79.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_8.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_80.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_81.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_82.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_83.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_84.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_85.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_86.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_87.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_88.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_89.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_66.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_90.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_91.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_92.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_93.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_94.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_95.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_96.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_97.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_98.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_99.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_9.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - SKIP: archivo_67.txt ya fue procesado anteriormente
+2026-08-30 01:20:24 - Ejecución finalizada correctamente
+2026-08-30 01:25:58 - Inicio versión secuencial
+2026-08-30 01:25:58 - SKIP: archivo_1.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_10.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_100.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_11.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_12.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_13.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_14.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_15.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_16.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_17.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_18.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_19.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_2.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_20.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_21.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_22.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_23.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_24.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_25.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_26.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_27.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_28.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_29.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_3.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_30.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_31.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_32.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_33.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_34.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_35.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_36.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_37.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_38.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_39.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_4.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_40.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_41.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_42.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_43.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_44.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_45.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_46.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_47.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_48.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_49.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_5.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_50.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_51.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_52.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_53.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_54.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_55.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_56.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_57.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_58.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_59.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_6.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_60.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_61.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_62.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_63.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_64.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_65.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_66.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_67.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_68.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_69.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_7.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_70.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_71.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_72.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_73.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_74.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_75.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_76.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_77.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_78.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_79.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_8.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_80.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_81.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_82.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_83.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_84.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_85.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_86.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_87.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_88.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_89.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_9.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_90.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_91.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_92.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_93.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_94.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_95.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_96.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_97.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_98.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - SKIP: archivo_99.txt ya fue procesado anteriormente
+2026-08-30 01:25:58 - Ejecución finalizada correctamente
+2026-08-30 01:26:05 - Inicio versión secuencial
+2026-08-30 01:26:05 - ERROR en archivo_1.txt: [Errno 13] Permission denied: '/home/user/laboratorio_so/data/entrada/archivo_1.txt'
+2026-08-30 01:26:05 - Procesado correctamente: archivo_10.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_100.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_11.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_12.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_13.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_14.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_15.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_16.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_17.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_18.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_19.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_2.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_20.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_21.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_22.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_23.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_24.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_25.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_26.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_27.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_28.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_29.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_3.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_30.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_31.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_32.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_33.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_34.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_35.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_36.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_37.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_38.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_39.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_4.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_40.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_41.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_42.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_43.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_44.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_45.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_46.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_47.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_48.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_49.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_5.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_50.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_51.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_52.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_53.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_54.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_55.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_56.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_57.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_58.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_59.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_6.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_60.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_61.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_62.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_63.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_64.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_65.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_66.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_67.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_68.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_69.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_7.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_70.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_71.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_72.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_73.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_74.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_75.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_76.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_77.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_78.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_79.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_8.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_80.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_81.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_82.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_83.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_84.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_85.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_86.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_87.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_88.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_89.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_9.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_90.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_91.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_92.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_93.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_94.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_95.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_96.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_97.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_98.txt
+2026-08-30 01:26:05 - Procesado correctamente: archivo_99.txt
+2026-08-30 01:26:05 - Ejecución finalizada correctamente
+2026-08-30 01:26:28 - Inicio versión secuencial
+2026-08-30 01:26:28 - ERROR en archivo_1.txt: [Errno 13] Permission denied: '/home/user/laboratorio_so/data/entrada/archivo_1.txt'
+2026-08-30 01:26:28 - Procesado correctamente: archivo_10.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_100.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_11.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_12.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_13.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_14.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_15.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_16.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_17.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_18.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_19.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_2.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_20.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_21.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_22.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_23.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_24.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_25.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_26.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_27.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_28.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_29.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_3.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_30.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_31.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_32.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_33.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_34.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_35.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_36.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_37.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_38.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_39.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_4.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_40.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_41.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_42.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_43.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_44.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_45.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_46.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_47.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_48.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_49.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_5.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_50.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_51.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_52.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_53.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_54.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_55.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_56.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_57.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_58.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_59.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_6.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_60.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_61.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_62.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_63.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_64.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_65.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_66.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_67.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_68.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_69.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_7.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_70.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_71.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_72.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_73.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_74.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_75.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_76.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_77.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_78.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_79.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_8.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_80.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_81.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_82.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_83.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_84.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_85.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_86.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_87.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_88.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_89.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_9.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_90.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_91.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_92.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_93.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_94.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_95.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_96.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_97.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_98.txt
+2026-08-30 01:26:28 - Procesado correctamente: archivo_99.txt
+2026-08-30 01:26:28 - Ejecución finalizada correctamente
+2026-08-30 01:27:09 - ERROR en archivo_prueba.txt: archivo corrupto de prueba
+2026-08-30 01:27:19 - ERROR en archivo_prueba.txt: corrupto
+2026-08-30 01:28:29 - test mensaje
+2026-08-30 01:28:29 - ERROR en prueba.txt: falla de prueba
+2026-08-30 01:28:51 - ERROR en prueba.txt: falla
+2026-08-30 01:29:09 - ERROR en archivo_1.txt: archivo corrupto de prueba
