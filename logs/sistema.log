@@ -2157,3 +2157,509 @@
 2026-08-30 01:28:29 - ERROR en prueba.txt: falla de prueba
 2026-08-30 01:28:51 - ERROR en prueba.txt: falla
 2026-08-30 01:29:09 - ERROR en archivo_1.txt: archivo corrupto de prueba
+2026-08-30 02:26:29 - Inicio versión concurrente
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_1.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_10.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_100.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_11.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_12.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_13.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_14.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_15.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_16.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_17.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_18.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_19.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_2.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_20.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_21.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_22.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_23.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_24.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_25.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_26.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_27.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_28.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_29.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_100.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_3.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_30.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_31.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_1.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_10.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_32.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_33.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_34.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_35.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_36.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_37.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_38.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_39.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_4.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_40.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_41.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_11.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_42.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_12.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_15.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_14.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_43.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_13.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_18.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_44.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_45.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_46.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_47.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_48.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_49.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_5.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_16.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_50.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_51.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_52.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_53.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_54.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_55.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_56.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_57.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_58.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_59.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_6.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_19.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_17.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_60.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_61.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_62.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_63.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_64.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_65.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_66.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_67.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_68.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_69.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_2.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_20.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_7.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_21.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_70.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_71.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_72.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_73.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_74.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_75.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_76.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_77.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_78.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_79.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_8.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_80.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_81.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_82.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_22.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_24.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_83.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_84.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_85.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_86.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_87.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_88.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_89.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_9.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_90.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_91.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_23.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_26.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_92.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_93.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_94.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_95.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_96.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_97.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_98.txt
+2026-08-30 02:26:29 - Archivo agregado a la cola: archivo_99.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_27.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_28.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_29.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_25.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_3.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_30.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_32.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_31.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_33.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_36.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_35.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_34.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_37.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_4.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_38.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_41.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_40.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_39.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_42.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_43.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_44.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_46.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_45.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_47.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_48.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_5.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_50.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_51.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_49.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_52.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_54.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_55.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_53.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_56.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_57.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_58.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_6.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_60.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_61.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_59.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_62.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_63.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_66.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_64.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_67.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_68.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_7.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_69.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_70.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_71.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_72.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_73.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_75.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_74.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_77.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_65.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_78.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_79.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_76.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_81.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_80.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_82.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_8.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_84.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_86.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_85.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_83.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_87.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_9.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_88.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_89.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_90.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_91.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_94.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_92.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_93.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_95.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_97.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_98.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_96.txt
+2026-08-30 02:26:29 - Procesado correctamente: archivo_99.txt
+2026-08-30 02:26:29 - Ejecución finalizada correctamente
+2026-08-30 02:26:51 - Inicio versión secuencial
+2026-08-30 02:26:51 - Procesado correctamente: archivo_1.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_10.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_100.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_11.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_12.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_13.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_14.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_15.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_16.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_17.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_18.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_19.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_2.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_20.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_21.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_22.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_23.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_24.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_25.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_26.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_27.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_28.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_29.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_3.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_30.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_31.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_32.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_33.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_34.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_35.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_36.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_37.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_38.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_39.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_4.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_40.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_41.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_42.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_43.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_44.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_45.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_46.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_47.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_48.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_49.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_5.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_50.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_51.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_52.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_53.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_54.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_55.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_56.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_57.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_58.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_59.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_6.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_60.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_61.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_62.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_63.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_64.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_65.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_66.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_67.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_68.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_69.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_7.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_70.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_71.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_72.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_73.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_74.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_75.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_76.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_77.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_78.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_79.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_8.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_80.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_81.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_82.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_83.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_84.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_85.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_86.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_87.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_88.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_89.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_9.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_90.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_91.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_92.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_93.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_94.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_95.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_96.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_97.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_98.txt
+2026-08-30 02:26:51 - Procesado correctamente: archivo_99.txt
+2026-08-30 02:26:51 - Ejecución finalizada correctamente
+2026-08-30 02:27:35 - Inicio versión experimental sin lock
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_1.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_10.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_100.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_11.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_12.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_13.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_14.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_15.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_16.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_17.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_18.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_19.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_2.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_20.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_21.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_22.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_23.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_24.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_25.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_26.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_27.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_28.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_29.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_3.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_30.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_31.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_32.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_33.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_34.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_35.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_36.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_37.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_38.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_39.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_4.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_40.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_41.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_42.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_43.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_44.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_45.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_46.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_47.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_48.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_49.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_5.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_50.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_51.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_52.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_53.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_54.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_55.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_56.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_57.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_58.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_59.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_6.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_60.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_61.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_62.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_63.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_64.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_65.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_66.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_67.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_68.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_69.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_7.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_70.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_71.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_72.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_73.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_74.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_75.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_76.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_77.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_78.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_79.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_8.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_80.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_81.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_82.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_83.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_84.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_85.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_86.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_87.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_88.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_89.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_9.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_90.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_91.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_92.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_93.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_94.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_95.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_96.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_97.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_98.txt
+2026-08-30 02:27:36 - Archivo agregado a la cola: archivo_99.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_10.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_1.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_100.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_12.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_11.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_13.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_14.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_16.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_15.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_17.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_18.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_19.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_20.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_2.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_21.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_22.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_23.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_24.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_25.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_26.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_27.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_28.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_29.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_3.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_30.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_31.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_32.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_33.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_34.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_35.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_36.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_37.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_38.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_39.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_4.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_40.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_41.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_42.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_43.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_44.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_45.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_46.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_47.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_48.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_49.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_5.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_50.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_51.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_52.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_53.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_54.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_55.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_56.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_57.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_58.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_59.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_6.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_60.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_61.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_62.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_63.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_64.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_65.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_66.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_67.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_68.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_69.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_7.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_70.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_71.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_72.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_73.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_74.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_75.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_76.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_77.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_78.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_79.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_8.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_80.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_81.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_83.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_82.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_84.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_85.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_86.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_87.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_88.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_89.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_9.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_90.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_91.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_92.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_93.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_94.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_95.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_96.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_97.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_98.txt
+2026-08-30 02:27:36 - Procesado correctamente: archivo_99.txt
+2026-08-30 02:27:36 - Ejecución finalizada correctamente

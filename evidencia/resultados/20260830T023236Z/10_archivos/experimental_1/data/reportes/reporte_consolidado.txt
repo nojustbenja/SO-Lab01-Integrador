@@ -1,0 +1,3 @@
+Archivos procesados: 4
+Palabras procesadas: 32
+Caracteres procesados: 196

@@ -1,0 +1,173 @@
+{
+  "fecha_utc": "20260830T023236Z",
+  "entorno": {
+    "python": "3.14.4 (main, Jun 18 2026, 14:25:02) [GCC 15.2.0]",
+    "sistema": "Linux-7.0.0-30-generic-aarch64-with-glibc2.43",
+    "cpu_logicas": 4
+  },
+  "configuracion": {
+    "cargas": "10",
+    "lineas_por_archivo": 1,
+    "intervalo_ps": 0.05,
+    "repeticiones_experimental": 1
+  },
+  "corridas": [
+    {
+      "version": "secuencial",
+      "comando": [
+        "/usr/bin/time",
+        "-f",
+        "real_s=%e\nuser_s=%U\nsys_s=%S\nrss_max_kib=%M\nexit=%x",
+        "-o",
+        "/home/user/laboratorio_so/evidencia/resultados/20260830T023236Z/10_archivos/secuencial_1/tiempo.txt",
+        "/usr/bin/python3",
+        "src/version_secuencial.py",
+        "--base",
+        "/home/user/laboratorio_so/evidencia/resultados/20260830T023236Z/10_archivos/secuencial_1"
+      ],
+      "codigo_salida": 0,
+      "memoria_antes": "total        used        free      shared  buff/cache   available\nMem:           3.3Gi       1.1Gi       1.5Gi       3.8Mi       904Mi       2.2Gi\nSwap:          3.0Gi          0B       3.0Gi",
+      "memoria_despues": "total        used        free      shared  buff/cache   available\nMem:           3.3Gi       1.1Gi       1.5Gi       3.8Mi       904Mi       2.2Gi\nSwap:          3.0Gi          0B       3.0Gi",
+      "medicion_time": "real_s=0.04\nuser_s=0.03\nsys_s=0.01\nrss_max_kib=17748\nexit=0",
+      "muestras_ps": [
+        {
+          "segundo": 0.013,
+          "ps": "6109    6102 S     0.0  0.0  1340   4356 time"
+        }
+      ],
+      "salida": "Procesado: archivo_001.txt\nProcesado: archivo_002.txt\nProcesado: archivo_003.txt\nProcesado: archivo_004.txt\nProcesado: archivo_005.txt\nProcesado: archivo_006.txt\nProcesado: archivo_007.txt\nProcesado: archivo_008.txt\nProcesado: archivo_009.txt\nProcesado: archivo_010.txt\nRESUMEN: modo=secuencial archivos=10 palabras=80 caracteres=490 tiempo=0.0015s\n",
+      "stderr": "",
+      "consolidado": {
+        "Archivos procesados": 10,
+        "Palabras procesadas": 80,
+        "Caracteres procesados": 490
+      },
+      "artefactos": {
+        "entrada_txt": 0,
+        "procesados_txt": 10,
+        "reportes_individuales": 10,
+        "lineas_log": 12
+      },
+      "validacion": {
+        "archivos_y_reportes": true,
+        "totales_correctos": true,
+        "resultado_esperado": true
+      },
+      "carga_archivos": 10,
+      "intento": 1,
+      "esperado": {
+        "archivos_esperados": 10,
+        "palabras_esperadas": 80,
+        "caracteres_esperados": 490,
+        "bytes_entrada": 490
+      },
+      "base": "/home/user/laboratorio_so/evidencia/resultados/20260830T023236Z/10_archivos/secuencial_1"
+    },
+    {
+      "version": "concurrente",
+      "comando": [
+        "/usr/bin/time",
+        "-f",
+        "real_s=%e\nuser_s=%U\nsys_s=%S\nrss_max_kib=%M\nexit=%x",
+        "-o",
+        "/home/user/laboratorio_so/evidencia/resultados/20260830T023236Z/10_archivos/concurrente_1/tiempo.txt",
+        "/usr/bin/python3",
+        "src/version_concurrente.py",
+        "--base",
+        "/home/user/laboratorio_so/evidencia/resultados/20260830T023236Z/10_archivos/concurrente_1",
+        "--trabajadores",
+        "3"
+      ],
+      "codigo_salida": 0,
+      "memoria_antes": "total        used        free      shared  buff/cache   available\nMem:           3.3Gi       1.1Gi       1.5Gi       3.8Mi       904Mi       2.2Gi\nSwap:          3.0Gi          0B       3.0Gi",
+      "memoria_despues": "total        used        free      shared  buff/cache   available\nMem:           3.3Gi       1.1Gi       1.5Gi       3.8Mi       904Mi       2.2Gi\nSwap:          3.0Gi          0B       3.0Gi",
+      "medicion_time": "real_s=0.04\nuser_s=0.03\nsys_s=0.01\nrss_max_kib=25424\nexit=0",
+      "muestras_ps": [
+        {
+          "segundo": 0.004,
+          "ps": "6114    6102 S     0.0  0.0  1336   3000 time"
+        }
+      ],
+      "salida": "Trabajador 3: archivo_003.txt\nTrabajador 2: archivo_001.txt\nTrabajador 1: archivo_002.txt\nTrabajador 2: archivo_005.txt\nTrabajador 3: archivo_004.txt\nTrabajador 1: archivo_006.txt\nTrabajador 2: archivo_007.txt\nTrabajador 2: archivo_010.txt\nTrabajador 1: archivo_009.txt\nTrabajador 3: archivo_008.txt\nRESUMEN: modo=concurrente trabajadores=3 archivos=10 palabras=80 caracteres=490 tiempo=0.0071s\n",
+      "stderr": "",
+      "consolidado": {
+        "Archivos procesados": 10,
+        "Palabras procesadas": 80,
+        "Caracteres procesados": 490
+      },
+      "artefactos": {
+        "entrada_txt": 0,
+        "procesados_txt": 10,
+        "reportes_individuales": 10,
+        "lineas_log": 22
+      },
+      "validacion": {
+        "archivos_y_reportes": true,
+        "totales_correctos": true,
+        "resultado_esperado": true
+      },
+      "carga_archivos": 10,
+      "intento": 1,
+      "esperado": {
+        "archivos_esperados": 10,
+        "palabras_esperadas": 80,
+        "caracteres_esperados": 490,
+        "bytes_entrada": 490
+      },
+      "base": "/home/user/laboratorio_so/evidencia/resultados/20260830T023236Z/10_archivos/concurrente_1"
+    },
+    {
+      "version": "experimental",
+      "comando": [
+        "/usr/bin/time",
+        "-f",
+        "real_s=%e\nuser_s=%U\nsys_s=%S\nrss_max_kib=%M\nexit=%x",
+        "-o",
+        "/home/user/laboratorio_so/evidencia/resultados/20260830T023236Z/10_archivos/experimental_1/tiempo.txt",
+        "/usr/bin/python3",
+        "src/version_sincronizacion_experimental.py",
+        "--base",
+        "/home/user/laboratorio_so/evidencia/resultados/20260830T023236Z/10_archivos/experimental_1",
+        "--trabajadores",
+        "3"
+      ],
+      "codigo_salida": 0,
+      "memoria_antes": "total        used        free      shared  buff/cache   available\nMem:           3.3Gi       1.1Gi       1.5Gi       3.8Mi       904Mi       2.2Gi\nSwap:          3.0Gi          0B       3.0Gi",
+      "memoria_despues": "total        used        free      shared  buff/cache   available\nMem:           3.3Gi       1.1Gi       1.5Gi       3.8Mi       904Mi       2.2Gi\nSwap:          3.0Gi          0B       3.0Gi",
+      "medicion_time": "real_s=0.05\nuser_s=0.03\nsys_s=0.01\nrss_max_kib=25824\nexit=0",
+      "muestras_ps": [
+        {
+          "segundo": 0.005,
+          "ps": "6128    6102 S     0.0  0.0  1340   3848 time"
+        }
+      ],
+      "salida": "Trabajador 2: archivo_002.txt\nTrabajador 1: archivo_001.txt\nTrabajador 3: archivo_003.txt\nTrabajador 2: archivo_004.txt\nTrabajador 3: archivo_006.txt\nTrabajador 1: archivo_005.txt\nTrabajador 2: archivo_007.txt\nTrabajador 1: archivo_009.txt\nTrabajador 3: archivo_008.txt\nTrabajador 2: archivo_010.txt\nRESUMEN: modo=experimental-sin-lock trabajadores=3 archivos=4 palabras=32 caracteres=196 tiempo=0.0141s\n",
+      "stderr": "",
+      "consolidado": {
+        "Archivos procesados": 4,
+        "Palabras procesadas": 32,
+        "Caracteres procesados": 196
+      },
+      "artefactos": {
+        "entrada_txt": 0,
+        "procesados_txt": 10,
+        "reportes_individuales": 10,
+        "lineas_log": 22
+      },
+      "validacion": {
+        "archivos_y_reportes": true,
+        "totales_correctos": false,
+        "resultado_esperado": true
+      },
+      "carga_archivos": 10,
+      "intento": 1,
+      "esperado": {
+        "archivos_esperados": 10,
+        "palabras_esperadas": 80,
+        "caracteres_esperados": 490,
+        "bytes_entrada": 490
+      },
+      "base": "/home/user/laboratorio_so/evidencia/resultados/20260830T023236Z/10_archivos/experimental_1"
+    }
+  ]
+}

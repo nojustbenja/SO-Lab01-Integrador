@@ -1,0 +1,5 @@
+Archivo: archivo_003.txt
+Líneas: 1
+Palabras: 8
+Caracteres: 49
+Palabra más frecuente: uno

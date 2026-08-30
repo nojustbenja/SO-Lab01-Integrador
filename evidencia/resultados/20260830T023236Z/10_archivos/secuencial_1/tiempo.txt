@@ -1,0 +1,5 @@
+real_s=0.04
+user_s=0.03
+sys_s=0.01
+rss_max_kib=17748
+exit=0

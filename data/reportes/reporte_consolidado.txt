@@ -1,4 +1,3 @@
-Archivos procesados: 99
-Palabras procesadas: 792
-Caracteres procesados: 4851
-Archivos omitidos (ya procesados): 0
+Archivos procesados: 45
+Palabras procesadas: 544
+Caracteres procesados: 3185
