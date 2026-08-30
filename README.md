@@ -98,6 +98,7 @@ python3 version_concurrente.py
 python3 version_concurrente.py --trabajadores 5
 ```
 
+## Cómo reproducir el experimento de condición de carrera
 ### Versión experimental sin lock *(condición de carrera)*
 
 Versión deliberadamente insegura para demostrar *lost updates* en sección crítica sin `Lock`. Solo para el experimento del Criterio 5.
@@ -145,4 +146,19 @@ laboratorio_so/
 
 ## Mecanismo de concurrencia aplicado
 
-## Cómo reproducir el experimento de condición de carrera
+Se usó el patrón **Productor–Consumidor** con tres primitivas de la biblioteca estándar de Python:
+
+| Elemento | Rol en el proyecto |
+|---|---|
+| `queue.Queue` | Cola compartida y thread-safe donde el productor deposita las rutas de los archivos |
+| `threading.Thread` | Un hilo productor + N hilos trabajadores (mínimo 3) que consumen la cola en paralelo |
+| `threading.Lock` (`bloqueo_totales`) | Protege la sección crítica: la actualización del diccionario `totales` compartido |
+
+**Flujo de ejecución:**
+
+1. El hilo productor recorre `data/entrada/` y deposita cada ruta en la `Queue`.
+2. Los N hilos trabajadores compiten por sacar rutas de la cola y procesarlas en paralelo.
+3. Al terminar cada archivo, el trabajador entra a la sección crítica con `with bloqueo_totales:` para acumular en el contador compartido — ningún otro hilo puede modificar `totales` hasta que ese bloque termine.
+4. El productor señala el fin insertando N centinelas `None` en la cola (uno por trabajador); cada hilo al recibirlo termina su bucle.
+
+La clase `Bitacora` también usa su propio `Lock` interno para que dos hilos no mezclen líneas al escribir el log de forma simultánea.
