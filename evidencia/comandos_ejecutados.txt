@@ -1,0 +1,65 @@
+EVIDENCIAS DE EJECUCIÓN - Laboratorio Integrador de Sistemas Operativos
+Fecha de ejecución: 2026-08-30 (UTC)
+
+Las pruebas se ejecutaron desde la raíz del proyecto. Se usó una raíz temporal por corrida mediante --base para no modificar los datos y reportes versionados del repositorio.
+
+0. Consulta de especificaciones del entorno de ejecución
+
+uname -a
+. /etc/os-release && printf '%s %s\n' "$PRETTY_NAME" "$VERSION_ID"
+lscpu | rg 'Architecture|CPU\(s\)|Model name|Thread|Core\(s\)|Socket|Virtualization'
+free -h
+df -h .
+python3 --version
+
+1. Preparación de cada carga de trabajo
+
+mkdir -p "$BASE/data/entrada"
+python3 -c "from pathlib import Path; import sys; base=Path(sys.argv[1]); cantidad=int(sys.argv[2]); texto=('uno dos tres cuatro cinco procesos hilos memoria concurrencia sistema operativo archivo reporte bitacora.\n'*25000); [((base/'data'/'entrada'/f'archivo_{i:03d}.txt').write_text(texto, encoding='utf-8')) for i in range(1,cantidad+1)]" "$BASE" CANTIDAD
+
+Se utilizaron CANTIDAD=10 (26 MiB de entrada) y CANTIDAD=100 (253 MiB de entrada). Todos los archivos de una misma carga tienen el mismo contenido.
+
+2. Medición de memoria global antes y después de cada ejecución
+
+free -h
+
+3. Ejecución secuencial y medición de tiempo/memoria máxima
+
+/usr/bin/time -f 'real_s=%e\nuser_s=%U\nsys_s=%S\nrss_max_kib=%M\nexit=%x' -o "$BASE/tiempo.txt" python3 src/version_secuencial.py --base "$BASE"
+
+4. Ejecución concurrente (tres trabajadores) y medición de tiempo/memoria máxima
+
+/usr/bin/time -f 'real_s=%e\nuser_s=%U\nsys_s=%S\nrss_max_kib=%M\nexit=%x' -o "$BASE/tiempo.txt" python3 src/version_concurrente.py --base "$BASE" --trabajadores 3
+
+5. Observación del proceso durante cada ejecución
+
+ps -o pid=,ppid=,stat=,%cpu=,%mem=,rss=,vsz=,comm= -p "$PID_PYTHON"
+
+La observación se repitió cada 0.05 s mientras el proceso Python estaba activo. Para la condición de carrera se usó el mismo comando con un intervalo de 0.02 s.
+
+6. Experimento de condición de carrera (tres repeticiones)
+
+/usr/bin/time -f 'real_s=%e\nuser_s=%U\nsys_s=%S\nrss_max_kib=%M\nexit=%x' -o "$BASE/tiempo.txt" python3 src/version_sincronizacion_experimental.py --base "$BASE" --trabajadores 3
+
+7. Verificación de archivos, permisos y tamaños
+
+find "$BASE/data/entrada" -name '*.txt' | wc -l
+find "$BASE/data/procesados" -name '*.txt' | wc -l
+find "$BASE/data/reportes" -name 'reporte_archivo_*.txt' | wc -l
+cat "$BASE/data/reportes/reporte_consolidado.txt"
+wc -l < "$BASE/logs/sistema.log"
+stat -c '%A %s %n' "$BASE/data/reportes/reporte_consolidado.txt" "$BASE/logs/sistema.log"
+ls -lh "$BASE/data/reportes/reporte_consolidado.txt" "$BASE/logs/sistema.log"
+
+8. Repetición manual en Bash interactivo
+
+Las tres versiones se repitieron desde una sesión Bash interactiva con
+`HISTFILE=/home/user/.bash_history` y `history -a` después de cada comando.
+La copia actualizada de esa trazabilidad se conserva en
+`evidencia/historial_bash.txt`.
+
+Comandos registrados en el historial para la repetición:
+
+/usr/bin/time -f 'real_s=%e user_s=%U sys_s=%S rss_max_kib=%M exit=%x' python3 src/version_secuencial.py --base '/tmp/lab_manual_secuencial.QbKFvh'
+/usr/bin/time -f 'real_s=%e user_s=%U sys_s=%S rss_max_kib=%M exit=%x' python3 src/version_concurrente.py --base '/tmp/lab_manual_concurrente.aJJZ65' --trabajadores 3
+/usr/bin/time -f 'real_s=%e user_s=%U sys_s=%S rss_max_kib=%M exit=%x' python3 src/version_sincronizacion_experimental.py --base '/tmp/lab_manual_experimental.v4B4GI' --trabajadores 3
