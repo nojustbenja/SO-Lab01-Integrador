@@ -119,6 +119,7 @@ python3 version_sincronizacion_experimental.py --trabajadores 8
 laboratorio_so/
 ├── README.md
 ├── requirements.txt
+├── informe.pdf
 ├── src/
 │   ├── ejemplos/
 │   ├── ejemplo_guiado.py
